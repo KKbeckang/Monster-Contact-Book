@@ -1,3 +1,7 @@
+# Hi, This is a Project Demo for showing understanding of React Please feel free to get a clone and see the features:
+Happy Watching
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
